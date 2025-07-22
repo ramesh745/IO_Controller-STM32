@@ -1,0 +1,15 @@
+🛠️ Method 1: Add Existing Source File to Project
+In Project Explorer, right-click on your project (IO_Controller)
+
+Click "Properties"
+
+Go to C/C++ General → Paths and Symbols → Source Location
+
+Make sure your HW_Init folder is listed. If not:
+
+Click Add Folder…
+
+Choose your HW_Init folder (where HW_Init.cpp is located)
+
+Click OK
+
